@@ -1,0 +1,16 @@
+      ----------------------------------------------------     
+      |            Elite Library Management              |     
+      ----------------------------------------------------     
+
+Name of person returning the book --> Rajesh
+
+Date of return --> 2021-09-10
+Time of return --> 10:12:29.865183
+
+S.N. 			 Name of the book 			 Name of the Author 			  Cost/10 days 
+1)			Apology for a Murder			Tim Parks				 Rs.56
+
+2)			The Secret Seven			Enid Blyton				 Rs.25
+
+												 Fine amount: Rs.0
+												 Total cost: Rs.81.0

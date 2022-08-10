@@ -1,0 +1,16 @@
+      ----------------------------------------------------     
+      |            Elite Library Management              |     
+      ----------------------------------------------------     
+
+Name of person returning the book --> Ayush
+
+Date of return --> 2021-09-10
+Time of return --> 10:44:35.310158
+
+S.N. 			 Name of the book 			 Name of the Author 			  Cost/10 days 
+1)			Will Solvit			Zed Storm				 Rs.76
+
+2)			Nasty Nature			Nick Arnold				 Rs.45
+
+												 Fine amount: Rs.12.100000000000001
+												 Total cost: Rs.133.1

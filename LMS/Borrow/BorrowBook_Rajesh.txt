@@ -1,0 +1,14 @@
+      ----------------------------------------------------     
+      |            Elite Library Management              |     
+      ----------------------------------------------------     
+
+Name of the borrower --> Rajesh Khanal
+
+Date of borrow --> 2021-09-10
+Time of borrow --> 10:12:11.392743
+
+S.N. 			 Name of the book 			 Name of the Author 			  Cost/10 days 
+1) 			Apology for a Murder				Tim Parks				Rs.56
+2) 			The Secret Seven				Enid Blyton				 Rs.25
+
+ 													 Total:Rs.81.0

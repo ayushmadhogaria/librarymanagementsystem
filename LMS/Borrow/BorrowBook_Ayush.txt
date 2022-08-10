@@ -1,0 +1,14 @@
+      ----------------------------------------------------     
+      |            Elite Library Management              |     
+      ----------------------------------------------------     
+
+Name of the borrower --> Ayush Madhogaria
+
+Date of borrow --> 2021-09-10
+Time of borrow --> 10:44:12.627643
+
+S.N. 			 Name of the book 			 Name of the Author 			  Cost/10 days 
+1) 			Will Solvit				Zed Storm				Rs.76
+2) 			Nasty Nature				Nick Arnold				 Rs.45
+
+ 													 Total:Rs.121.0
